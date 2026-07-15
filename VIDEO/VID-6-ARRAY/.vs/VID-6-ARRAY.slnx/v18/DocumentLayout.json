@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fafaf\\Documents\\tt\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\VID-6-ARRAY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{211DA6D8-3846-E47D-B08A-1C501789377C}|VID-6-ARRAY\\VID-6-ARRAY.csproj|c:\\users\\fafaf\\documents\\tt\\kelas_xi_rpl-main\\kelas_xi_rpl-main\\kelas-xi-rpl\\video\\vid-6-array\\vid-6-array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211DA6D8-3846-E47D-B08A-1C501789377C}|VID-6-ARRAY\\VID-6-ARRAY.csproj|solutionrelative:vid-6-array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fafaf\\Documents\\tt\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\VID-6-ARRAY\\VID-6-ARRAY\\Program.cs",
+              "RelativeDocumentMoniker": "VID-6-ARRAY\\Program.cs",
+              "ToolTip": "C:\\Users\\fafaf\\Documents\\tt\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\VID-6-ARRAY\\VID-6-ARRAY\\Program.cs",
+              "RelativeToolTip": "VID-6-ARRAY\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T02:29:34.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
